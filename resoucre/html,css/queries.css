@@ -1,0 +1,33 @@
+
+@media only screen  and (max-width:1200px){
+    html{
+        font-size: 16px;
+    }
+    .heading-main{
+        transform: translate(-0%,-20%);
+    }
+    form{
+        margin-left: 30%;
+    }
+  
+}
+ 
+/* Small tablet to big tablet from 768x to 1023px */
+@media only screen and (max-width:820px){
+    .main-nap{
+        margin: 50px 0px 0px 0px;
+    }
+    .row{
+        margin: 30px 0px 0px 50px;
+    }
+     
+}
+ 
+/* Small phones to small tablets */
+@media only screen and (max-width: 767px){
+  
+}
+ 
+/* Small phones from 0 to 480px; */
+@media only screen and (max-width: 480px){
+}
